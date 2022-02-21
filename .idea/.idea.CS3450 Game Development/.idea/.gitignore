@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.CS3450 Game Development.iml
+# Datasource local storage ignored files
+/../../../../../../../:\Final Year\Game Dev\CS3450 Game Development\.idea\.idea.CS3450 Game Development\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
